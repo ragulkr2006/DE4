@@ -1,3 +1,7 @@
+## NAME: RAGUL K R
+## REG.NO:24900660
+## EXP.NO:4-FULL_ADDER_SUBTRACTOR
+
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
