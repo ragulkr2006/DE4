@@ -50,10 +50,29 @@ FULL SUBTRACTOR
 
 ![WhatsApp Image 2024-11-28 at 10 56 47_43251b5a](https://github.com/user-attachments/assets/20bab93e-9726-427d-a788-7c7622f515a9)
 
+## procedure :
+
+## full Adder 
+1.open quartus II and create A new project.
+2.use schematic design entry to draw the full adder circuit .
+3.The circuit consist of XOR,AND and OR gates.
+4.compile the design,verify its functionality through simulation.
+5.implement the design on the target device and program it .
+
+
+## Full Subractor :
+1.follow the same steps as for the full adder .
+2.draw the full subractor circuit  using schematic design .
+3.the circuit includes XOR,AND,OR gates to perform subraction.
+4.compile ,simulate,implement,and program the design similarly to the full adder .
 
 ## program :
+![WhatsApp Image 2025-01-06 at 05 16 47_b9c540a4](https://github.com/user-attachments/assets/9f038bb7-ca88-4178-9ec1-3ce1a1554180)
 
-## RTL Schematic
+
+## RTL viewer:
+![WhatsApp Image 2025-01-06 at 05 19 13_aea971c0](https://github.com/user-attachments/assets/dcefe4c7-53cd-40d0-8b80-52f4cd254839)
+
 
 FULL ADDER
 
@@ -67,18 +86,8 @@ FUL SUBTRACTER
 
 
 
-## Output Timing Waveform
-
-FULL ADDER
-
-![WhatsApp Image 2024-11-28 at 10 28 57_0b341032](https://github.com/user-attachments/assets/8780ea0e-dd52-4e1a-8fec-d4906aece85a)
-
-
-
-FULL SUBTRACTER
-
-![WhatsApp Image 2024-11-28 at 10 45 39_0d54dd53](https://github.com/user-attachments/assets/25d9a9a4-9b5e-456a-8acb-20ed4407053b)
-
+## Output Timing Waveform:
+![WhatsApp Image 2025-01-06 at 05 17 54_f9a5e269](https://github.com/user-attachments/assets/d2421881-f0ad-48af-9516-c2e47589cddf)
 
 
 ## Result:
