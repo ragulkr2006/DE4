@@ -5,13 +5,13 @@
 
 ## AIM:
 
-To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
+To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming..
 
 ## Equipments Required:
 
 Hardware – PCs, Cyclone II , USB flasher
 
-Software – Quartus prime
+Software – Quartus prime  
 
 ## Full Adder and Full Subtractor
 
