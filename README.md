@@ -65,7 +65,8 @@ FULL SUBTRACTOR
 4.compile ,simulate,implement,and program the design similarly to the full adder .
 
 ## program :
-![WhatsApp Image 2025-01-07 at 08 28 28_194bd2ac](https://github.com/user-attachments/assets/e07dcb6e-0c9b-445b-b382-b0ceb5be23b0)
+![image](https://github.com/user-attachments/assets/701a6d11-1965-4d19-b3cc-f713967eda40)
+
 
 
 
